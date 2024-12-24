@@ -14,8 +14,7 @@ Just Duck
 
 ## Connect with Me
 
-- 📫 How to reach me: tduc1234@gmail.com
-- Or my facebook: <br/>
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tenemail@domain.com)<br/>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/duck35lawrence)
 
 Thank you for visiting my profile!
