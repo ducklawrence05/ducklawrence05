@@ -8,10 +8,6 @@ Welcome to my GitHub profile!
 
 ## Skills
 
-- **Languages:**
-- **Frameworks:**
-- **Tools:**
-
 ## Projects
 
 ## GitHub Stats
