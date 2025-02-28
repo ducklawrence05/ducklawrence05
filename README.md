@@ -8,10 +8,6 @@ Just Duck
 
 ## Projects
 
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=duck35lawrence&show_icons=true&theme=radical)
-
 ## Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=tduc01234@gmail.com&tf=cm)<br/>
