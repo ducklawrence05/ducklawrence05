@@ -2,7 +2,7 @@
 
 ## About Me
 
-Just Duck
+Just Quack Quack
 
 ## Skills
 
